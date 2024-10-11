@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     /* height: 100vh; */
-    background-color: hsl(212, 45%, 89%);
+    /* background-color: hsl(212, 45%, 89%);
     width: 1440px;
 }
 
@@ -29,9 +29,9 @@ body {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     width: 300px;
-}
+} */
 
-.qr-card img {
+/* .qr-card img {
     width: 100%;
     max-width: 250px;
     height: auto;
@@ -48,4 +48,4 @@ body {
 .qr-card p {
     font-size: 14px;
     color: hsl(216, 15%, 48%);
-}
+} */ 
